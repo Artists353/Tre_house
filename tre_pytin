@@ -1,0 +1,9 @@
+name_id = input('Введите свой ID: ')
+g = []
+with open('mers-reg.csv', 'r') as mers:
+    h = mers.read().split('\n')
+    g.append(h)
+if name_id in h:
+    print('Вы участвуете')
+else:
+    print('Вы не участвуете')
