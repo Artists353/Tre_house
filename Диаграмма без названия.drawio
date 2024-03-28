@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T08:20:07.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eK4YK2BKVh9Y_jUkHtD_" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T08:31:54.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ivp7ciF_vsNKtqJ-0Czu" version="24.2.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2338" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-0" value="Алгоритм для проверки переменных на минимальное число" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="-1580" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-2" value="H.I.G.A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-3" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="-1320" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-4" value="if N &amp;lt; I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-6" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="-1120" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-7" value="if N &amp;lt; G" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-8" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="-920" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-9" value="If N &amp;lt; A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-10" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="-700" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-11" value="N == min number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-12" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-1120" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-13" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-920" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="-1200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-17" value="if I &amp;lt; G" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="-1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-18" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="-1120" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-19" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="-1120" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-20" value="if I &amp;lt; A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="-980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-22" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="-880" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-23" value="I == min number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-24" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="-1200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-25" value="if G &amp;lt; A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="-1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-26" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="-1120" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-29" value="G == min number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="-1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-30" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="-1200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="thRZuNT_QCO_FXp8Pr_E-31" value="A == min number&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="-1200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
